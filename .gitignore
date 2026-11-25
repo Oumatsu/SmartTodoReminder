@@ -1,0 +1,7 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+todo.db
+todo.db-*
+tasks_export.csv
